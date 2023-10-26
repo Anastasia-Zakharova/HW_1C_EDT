@@ -3,4 +3,24 @@
 ## _Задание 1._ **Установка EDT**
 
 1. Консоль java version
-![My scrin](https://joxi.ru/Q2KMvVxHXjZB6r.jpg)
+   
+![My scrin 1](http://dl3.joxi.net/drive/2023/10/26/0055/3282/3628242/42/a7dfa893e1.jpg)
+
+2. Значения переменных сред
+
+![My scrin 2](http://dl3.joxi.net/drive/2023/10/24/0055/3282/3628242/42/ae49e1a562.jpg)
+
+3. Файл настроек
+
+![My scrin 3](http://dl3.joxi.net/drive/2023/10/25/0055/3282/3628242/42/b976e9994f.jpg)
+
+4. Рабочая область EDT
+
+![My scrin 4](http://dl3.joxi.net/drive/2023/10/26/0055/3282/3628242/42/b6340e5091.jpg)
+
+## _Задание 2._ **Анализ ошибок конфигурации**
+
+1. Отбор ошибок по текущему объекту
+
+![My scrin 5](http://dl3.joxi.net/drive/2023/10/26/0055/3282/3628242/42/b6340e5091.jpg)
+
